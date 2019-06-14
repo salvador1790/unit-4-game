@@ -1,0 +1,99 @@
+body{
+   background-image: url("../images/restaurant.png");
+   height: 1000px;         
+}
+
+#title{
+    background-color: #cb6f34;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    color: white;
+}
+
+#titleP{
+    position: relative;
+    top:15px;
+}
+
+#instructions{
+    background-color: #fbe6cf;
+    width: 450px;
+    height: 400px;
+    margin-top: 15px;
+}
+
+#instructionText{
+    padding: 20px;
+}
+
+#target{
+    width: 200px;
+    height: 100px;
+    background-color: lightgreen;
+    margin-top: 15px;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+}
+
+#winsloses{
+    height: 100px;
+    width: 70px;
+    background-color: #3afdfd;
+    float: left;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 15px;
+}
+#crystalContainer{
+    clear: both;
+    margin-top: 15px;
+}
+
+#redcrystal{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: 15px;
+}
+
+#purplecrystal{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: 15px;
+
+}
+
+#bluecrystal{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: 15px;
+}
+
+#greencrystal{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: 15px;
+}
+#score{
+    background-color: teal;
+    width: 200px;
+    height: 20px;
+    clear: both;
+    position: relative;
+    top:15px;
+    color: white;
+}
+
+#scoreNumber{
+    background-color: teal;
+    margin-top: 25px;
+    width: 200px;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+}
